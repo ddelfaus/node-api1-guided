@@ -1,0 +1,7 @@
+-install express -. 'npm i express'
+add index.js to root
+add server code to index
+run api useing 'npm run server
+test it useing a get request to 'localhost:4000
+
+
